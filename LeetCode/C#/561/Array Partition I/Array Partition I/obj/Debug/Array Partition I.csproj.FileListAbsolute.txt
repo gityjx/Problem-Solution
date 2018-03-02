@@ -1,0 +1,5 @@
+D:\code\leetcode\C#\Array Partition I\Array Partition I\bin\Debug\Array Partition I.exe
+D:\code\leetcode\C#\Array Partition I\Array Partition I\bin\Debug\Array Partition I.pdb
+D:\code\leetcode\C#\Array Partition I\Array Partition I\obj\Debug\Array Partition I.csprojResolveAssemblyReference.cache
+D:\code\leetcode\C#\Array Partition I\Array Partition I\obj\Debug\Array Partition I.exe
+D:\code\leetcode\C#\Array Partition I\Array Partition I\obj\Debug\Array Partition I.pdb

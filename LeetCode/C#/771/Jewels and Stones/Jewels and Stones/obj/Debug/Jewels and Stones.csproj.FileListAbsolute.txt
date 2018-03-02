@@ -1,0 +1,5 @@
+D:\code\leetcode\C#\771\Jewels and Stones\Jewels and Stones\obj\Debug\Jewels and Stones.csprojResolveAssemblyReference.cache
+D:\code\leetcode\C#\771\Jewels and Stones\Jewels and Stones\bin\Debug\Jewels and Stones.exe
+D:\code\leetcode\C#\771\Jewels and Stones\Jewels and Stones\bin\Debug\Jewels and Stones.pdb
+D:\code\leetcode\C#\771\Jewels and Stones\Jewels and Stones\obj\Debug\Jewels and Stones.exe
+D:\code\leetcode\C#\771\Jewels and Stones\Jewels and Stones\obj\Debug\Jewels and Stones.pdb
