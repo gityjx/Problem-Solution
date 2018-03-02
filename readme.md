@@ -1,0 +1,1 @@
+##  This Repo store some problems' solution from LeeCode and LintCode etc.
