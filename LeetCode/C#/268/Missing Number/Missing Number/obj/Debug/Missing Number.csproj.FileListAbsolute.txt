@@ -1,0 +1,5 @@
+D:\code\leetcode\C#\268\Missing Number\Missing Number\obj\Debug\Missing Number.csprojResolveAssemblyReference.cache
+D:\code\leetcode\C#\268\Missing Number\Missing Number\bin\Debug\Missing Number.exe
+D:\code\leetcode\C#\268\Missing Number\Missing Number\bin\Debug\Missing Number.pdb
+D:\code\leetcode\C#\268\Missing Number\Missing Number\obj\Debug\Missing Number.exe
+D:\code\leetcode\C#\268\Missing Number\Missing Number\obj\Debug\Missing Number.pdb

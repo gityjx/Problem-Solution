@@ -1,0 +1,5 @@
+D:\code\leetcode\C#\766\Toeplitz Matrix\Toeplitz Matrix\obj\Debug\Toeplitz Matrix.csprojResolveAssemblyReference.cache
+D:\code\leetcode\C#\766\Toeplitz Matrix\Toeplitz Matrix\bin\Debug\Toeplitz Matrix.exe
+D:\code\leetcode\C#\766\Toeplitz Matrix\Toeplitz Matrix\bin\Debug\Toeplitz Matrix.pdb
+D:\code\leetcode\C#\766\Toeplitz Matrix\Toeplitz Matrix\obj\Debug\Toeplitz Matrix.exe
+D:\code\leetcode\C#\766\Toeplitz Matrix\Toeplitz Matrix\obj\Debug\Toeplitz Matrix.pdb

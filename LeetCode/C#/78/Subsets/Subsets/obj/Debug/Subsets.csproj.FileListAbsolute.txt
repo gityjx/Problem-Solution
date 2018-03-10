@@ -1,0 +1,5 @@
+D:\code\leetcode\C#\78\Subsets\Subsets\obj\Debug\Subsets.csprojResolveAssemblyReference.cache
+D:\code\leetcode\C#\78\Subsets\Subsets\bin\Debug\Subsets.exe
+D:\code\leetcode\C#\78\Subsets\Subsets\bin\Debug\Subsets.pdb
+D:\code\leetcode\C#\78\Subsets\Subsets\obj\Debug\Subsets.exe
+D:\code\leetcode\C#\78\Subsets\Subsets\obj\Debug\Subsets.pdb

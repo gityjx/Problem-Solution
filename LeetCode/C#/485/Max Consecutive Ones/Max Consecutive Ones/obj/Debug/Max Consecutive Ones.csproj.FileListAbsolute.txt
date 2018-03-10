@@ -1,0 +1,5 @@
+D:\code\leetcode\C#\485\Max Consecutive Ones\Max Consecutive Ones\obj\Debug\Max Consecutive Ones.csprojResolveAssemblyReference.cache
+D:\code\leetcode\C#\485\Max Consecutive Ones\Max Consecutive Ones\bin\Debug\Max Consecutive Ones.exe
+D:\code\leetcode\C#\485\Max Consecutive Ones\Max Consecutive Ones\bin\Debug\Max Consecutive Ones.pdb
+D:\code\leetcode\C#\485\Max Consecutive Ones\Max Consecutive Ones\obj\Debug\Max Consecutive Ones.exe
+D:\code\leetcode\C#\485\Max Consecutive Ones\Max Consecutive Ones\obj\Debug\Max Consecutive Ones.pdb

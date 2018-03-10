@@ -1,0 +1,5 @@
+D:\code\leetcode\C#\191\Number of 1 Bits\Number of 1 Bits\obj\Debug\Number of 1 Bits.csprojResolveAssemblyReference.cache
+D:\code\leetcode\C#\191\Number of 1 Bits\Number of 1 Bits\bin\Debug\Number of 1 Bits.exe
+D:\code\leetcode\C#\191\Number of 1 Bits\Number of 1 Bits\bin\Debug\Number of 1 Bits.pdb
+D:\code\leetcode\C#\191\Number of 1 Bits\Number of 1 Bits\obj\Debug\Number of 1 Bits.exe
+D:\code\leetcode\C#\191\Number of 1 Bits\Number of 1 Bits\obj\Debug\Number of 1 Bits.pdb

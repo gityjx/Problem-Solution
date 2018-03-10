@@ -1,0 +1,5 @@
+D:\code\leetcode\C#\136\Single Number\Single Number\bin\Debug\Single Number.exe
+D:\code\leetcode\C#\136\Single Number\Single Number\bin\Debug\Single Number.pdb
+D:\code\leetcode\C#\136\Single Number\Single Number\obj\Debug\Single Number.csprojResolveAssemblyReference.cache
+D:\code\leetcode\C#\136\Single Number\Single Number\obj\Debug\Single Number.exe
+D:\code\leetcode\C#\136\Single Number\Single Number\obj\Debug\Single Number.pdb

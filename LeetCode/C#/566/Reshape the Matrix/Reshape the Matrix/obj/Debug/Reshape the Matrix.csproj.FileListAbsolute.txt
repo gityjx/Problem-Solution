@@ -1,0 +1,5 @@
+D:\code\leetcode\C#\566\Reshape the Matrix\Reshape the Matrix\obj\Debug\Reshape the Matrix.csprojResolveAssemblyReference.cache
+D:\code\leetcode\C#\566\Reshape the Matrix\Reshape the Matrix\bin\Debug\Reshape the Matrix.exe
+D:\code\leetcode\C#\566\Reshape the Matrix\Reshape the Matrix\bin\Debug\Reshape the Matrix.pdb
+D:\code\leetcode\C#\566\Reshape the Matrix\Reshape the Matrix\obj\Debug\Reshape the Matrix.exe
+D:\code\leetcode\C#\566\Reshape the Matrix\Reshape the Matrix\obj\Debug\Reshape the Matrix.pdb

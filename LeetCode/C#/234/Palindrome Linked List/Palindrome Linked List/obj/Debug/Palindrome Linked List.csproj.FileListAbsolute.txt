@@ -1,0 +1,5 @@
+D:\code\leetcode\C#\234\Palindrome Linked List\Palindrome Linked List\bin\Debug\Palindrome Linked List.exe
+D:\code\leetcode\C#\234\Palindrome Linked List\Palindrome Linked List\bin\Debug\Palindrome Linked List.pdb
+D:\code\leetcode\C#\234\Palindrome Linked List\Palindrome Linked List\obj\Debug\Palindrome Linked List.csprojResolveAssemblyReference.cache
+D:\code\leetcode\C#\234\Palindrome Linked List\Palindrome Linked List\obj\Debug\Palindrome Linked List.exe
+D:\code\leetcode\C#\234\Palindrome Linked List\Palindrome Linked List\obj\Debug\Palindrome Linked List.pdb

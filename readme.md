@@ -1,1 +1,1 @@
-##  This Repo store some problems' solution from LeeCode and LintCode etc.
+##  This Repo stores some problem's solution from LeeCode and LintCode etc.

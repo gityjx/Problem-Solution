@@ -1,0 +1,5 @@
+D:\code\leetcode\C#\412\Fizz Buzz\Fizz Buzz\obj\Debug\Fizz Buzz.csprojResolveAssemblyReference.cache
+D:\code\leetcode\C#\412\Fizz Buzz\Fizz Buzz\bin\Debug\Fizz Buzz.exe
+D:\code\leetcode\C#\412\Fizz Buzz\Fizz Buzz\bin\Debug\Fizz Buzz.pdb
+D:\code\leetcode\C#\412\Fizz Buzz\Fizz Buzz\obj\Debug\Fizz Buzz.exe
+D:\code\leetcode\C#\412\Fizz Buzz\Fizz Buzz\obj\Debug\Fizz Buzz.pdb
