@@ -1,0 +1,5 @@
+E:\git\Problem-Solution\LeetCode\C#\500\Keyboard Row\Keyboard Row\obj\Debug\Keyboard Row.csprojResolveAssemblyReference.cache
+E:\git\Problem-Solution\LeetCode\C#\500\Keyboard Row\Keyboard Row\bin\Debug\Keyboard Row.exe
+E:\git\Problem-Solution\LeetCode\C#\500\Keyboard Row\Keyboard Row\bin\Debug\Keyboard Row.pdb
+E:\git\Problem-Solution\LeetCode\C#\500\Keyboard Row\Keyboard Row\obj\Debug\Keyboard Row.exe
+E:\git\Problem-Solution\LeetCode\C#\500\Keyboard Row\Keyboard Row\obj\Debug\Keyboard Row.pdb
